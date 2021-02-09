@@ -1,24 +1,3 @@
-# vue-ecommerce
+# Vue E-commerce web application
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+A simple website I am building/built using **Vue JS** and **Firebase** to improve my Javascript skills as well as merging frontend design with simple backend development.
